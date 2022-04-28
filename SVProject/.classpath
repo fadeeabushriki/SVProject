@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-api-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-api-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-chrome-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-chrome-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-chromium-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-chromium-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-devtools-v85-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-devtools-v85-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-devtools-v95-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-devtools-v95-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-devtools-v96-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-devtools-v96-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-devtools-v97-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-devtools-v97-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-edge-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-edge-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-firefox-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-firefox-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-firefox-xpi-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-firefox-xpi-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-http-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-http-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-ie-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-ie-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-java-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-java-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-json-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-json-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-opera-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-opera-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-remote-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-remote-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-safari-driver-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-safari-driver-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-support-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-java-4.1.2/selenium-support-4.1.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/slf4j-simple-2.0.0-alpha6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/slf4j-api-2.0.0-alpha6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/Downloads/selenium-server-4.1.2.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/fadee/.m2/repository/commons-io/commons-io/1.3.2/commons-io-1.3.2.jar" sourcepath="C:/Users/fadee/.m2/repository/commons-io/commons-io/1.3.2/commons-io-1.3.2-sources.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="commons-io"/>
+			<attribute name="maven.artifactId" value="commons-io"/>
+			<attribute name="maven.version" value="1.3.2"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

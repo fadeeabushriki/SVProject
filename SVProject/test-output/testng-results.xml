@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="24" passed="24">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52600" started-at="2022-04-28T18:09:44 IDT" finished-at="2022-04-28T18:10:37 IDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52600" started-at="2022-04-28T18:09:44 IDT" finished-at="2022-04-28T18:10:37 IDT">
+      <class name="Start">
+        <test-method status="PASS" signature="main()[pri:0, instance:Start@4973813a]" name="main" is-config="true" duration-ms="10663" started-at="2022-04-28T18:09:44 IDT" finished-at="2022-04-28T18:09:55 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="CheckiSiteOpened()[pri:0, instance:Start@4973813a]" name="CheckiSiteOpened" duration-ms="8" started-at="2022-04-28T18:09:55 IDT" finished-at="2022-04-28T18:09:55 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckiSiteOpened -->
+        <test-method status="PASS" signature="Startbuton()[pri:1, instance:Start@4973813a]" name="Startbuton" duration-ms="77" started-at="2022-04-28T18:09:55 IDT" finished-at="2022-04-28T18:09:55 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startbuton -->
+        <test-method status="PASS" signature="typequsetion1()[pri:2, instance:Start@4973813a]" name="typequsetion1" duration-ms="9389" started-at="2022-04-28T18:09:55 IDT" finished-at="2022-04-28T18:10:04 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typequsetion1 -->
+        <test-method status="PASS" signature="nextbtn()[pri:3, instance:Start@4973813a]" name="nextbtn" duration-ms="56" started-at="2022-04-28T18:10:04 IDT" finished-at="2022-04-28T18:10:04 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextbtn -->
+        <test-method status="PASS" signature="typeanswer()[pri:4, instance:Start@4973813a]" name="typeanswer" duration-ms="3271" started-at="2022-04-28T18:10:04 IDT" finished-at="2022-04-28T18:10:08 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typeanswer -->
+        <test-method status="PASS" signature="selectanswer()[pri:5, instance:Start@4973813a]" name="selectanswer" duration-ms="46" started-at="2022-04-28T18:10:08 IDT" finished-at="2022-04-28T18:10:08 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectanswer -->
+        <test-method status="PASS" signature="nextbtn11()[pri:6, instance:Start@4973813a]" name="nextbtn11" duration-ms="34" started-at="2022-04-28T18:10:08 IDT" finished-at="2022-04-28T18:10:08 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextbtn11 -->
+        <test-method status="PASS" signature="typequsetion2()[pri:7, instance:Start@4973813a]" name="typequsetion2" duration-ms="736" started-at="2022-04-28T18:10:08 IDT" finished-at="2022-04-28T18:10:08 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typequsetion2 -->
+        <test-method status="PASS" signature="nextbtn2()[pri:8, instance:Start@4973813a]" name="nextbtn2" duration-ms="34" started-at="2022-04-28T18:10:08 IDT" finished-at="2022-04-28T18:10:09 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextbtn2 -->
+        <test-method status="PASS" signature="typeanswer2()[pri:9, instance:Start@4973813a]" name="typeanswer2" duration-ms="2921" started-at="2022-04-28T18:10:09 IDT" finished-at="2022-04-28T18:10:11 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typeanswer2 -->
+        <test-method status="PASS" signature="selectanswer2()[pri:10, instance:Start@4973813a]" name="selectanswer2" duration-ms="42" started-at="2022-04-28T18:10:11 IDT" finished-at="2022-04-28T18:10:11 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectanswer2 -->
+        <test-method status="PASS" signature="nextbtn22()[pri:11, instance:Start@4973813a]" name="nextbtn22" duration-ms="49" started-at="2022-04-28T18:10:11 IDT" finished-at="2022-04-28T18:10:12 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextbtn22 -->
+        <test-method status="PASS" signature="typequsetion3()[pri:12, instance:Start@4973813a]" name="typequsetion3" duration-ms="1501" started-at="2022-04-28T18:10:12 IDT" finished-at="2022-04-28T18:10:13 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typequsetion3 -->
+        <test-method status="PASS" signature="nextbtn3()[pri:13, instance:Start@4973813a]" name="nextbtn3" duration-ms="29" started-at="2022-04-28T18:10:13 IDT" finished-at="2022-04-28T18:10:13 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextbtn3 -->
+        <test-method status="PASS" signature="typeanswer3()[pri:14, instance:Start@4973813a]" name="typeanswer3" duration-ms="3105" started-at="2022-04-28T18:10:13 IDT" finished-at="2022-04-28T18:10:16 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- typeanswer3 -->
+        <test-method status="PASS" signature="selectanswer3()[pri:15, instance:Start@4973813a]" name="selectanswer3" duration-ms="40" started-at="2022-04-28T18:10:16 IDT" finished-at="2022-04-28T18:10:16 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectanswer3 -->
+        <test-method status="PASS" signature="nextbtn33()[pri:16, instance:Start@4973813a]" name="nextbtn33" duration-ms="46" started-at="2022-04-28T18:10:16 IDT" finished-at="2022-04-28T18:10:16 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nextbtn33 -->
+        <test-method status="PASS" signature="checkfinishedbuildtest()[pri:17, instance:Start@4973813a]" name="checkfinishedbuildtest" duration-ms="9" started-at="2022-04-28T18:10:16 IDT" finished-at="2022-04-28T18:10:16 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkfinishedbuildtest -->
+        <test-method status="PASS" signature="Startplay()[pri:18, instance:Start@4973813a]" name="Startplay" duration-ms="42" started-at="2022-04-28T18:10:16 IDT" finished-at="2022-04-28T18:10:16 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Startplay -->
+        <test-method status="PASS" signature="wronganswer()[pri:19, instance:Start@4973813a]" name="wronganswer" duration-ms="5366" started-at="2022-04-28T18:10:16 IDT" finished-at="2022-04-28T18:10:22 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wronganswer -->
+        <test-method status="PASS" signature="Statuswronganswer()[pri:20, instance:Start@4973813a]" name="Statuswronganswer" duration-ms="2050" started-at="2022-04-28T18:10:22 IDT" finished-at="2022-04-28T18:10:24 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Statuswronganswer -->
+        <test-method status="PASS" signature="correctanswer()[pri:21, instance:Start@4973813a]" name="correctanswer" duration-ms="5379" started-at="2022-04-28T18:10:24 IDT" finished-at="2022-04-28T18:10:29 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctanswer -->
+        <test-method status="PASS" signature="Statuscorrectanswer()[pri:22, instance:Start@4973813a]" name="Statuscorrectanswer" duration-ms="2078" started-at="2022-04-28T18:10:29 IDT" finished-at="2022-04-28T18:10:31 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Statuscorrectanswer -->
+        <test-method status="PASS" signature="OpenFacebookk()[pri:23, instance:Start@4973813a]" name="OpenFacebookk" duration-ms="5424" started-at="2022-04-28T18:10:31 IDT" finished-at="2022-04-28T18:10:37 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OpenFacebookk -->
+        <test-method status="PASS" signature="Closewindow()[pri:0, instance:Start@4973813a]" name="Closewindow" is-config="true" duration-ms="116" started-at="2022-04-28T18:10:37 IDT" finished-at="2022-04-28T18:10:37 IDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Closewindow -->
+      </class> <!-- Start -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
